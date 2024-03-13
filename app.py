@@ -16,7 +16,7 @@ with st.sidebar:
     st.title('💬ESG Survey Q/A App')
     st.markdown('''
     ## About this application
-    You can built your own customized LLM-powered chatbot using:
+    This is ESG survey App
     - [Streamlit](https://streamlit.io/)
     - [LangChain](https://python.langchain.com/)
     - [OpenAI](https://platform.openai.com/docs/models) LLM model
